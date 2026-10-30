@@ -1,0 +1,41 @@
+We study a growth model for causal sets in which every new element is
+inserted into the interior of the existing causal set, so that the
+density of elements increases dynamically. The insertion rule is Lorentz
+invariant: a child is placed at a small, Poisson-distributed proper-time
+separation from a uniformly chosen parent, with a rapidity drawn from
+the Haar measure \(\sinh^2\eta\,d\eta\), optionally damped by a
+Maxwell--Jüttner factor \(e^{-\alpha\cosh\eta}\) whose rest frame is
+read off the state. We use the model to address four open problems of
+causal set theory.
+
+\emph{Continuum limit.} The empirical measure of the growing set
+converges almost surely for every \(\alpha\ge 0\), and every finite
+induced-subposet density converges, so the process has a poset limit: a
+uniform sprinkling of a conformally flat spacetime. For \(\alpha=0\) the
+limit is explicit, \(a^4\propto t^2+(T-t)^2\).
+
+\emph{Mesoscopic manifoldlikeness.} Exact second-moment recursions, an
+eigenvalue criterion and martingale concentration give high-probability
+versions of Madsen's conditions F2 (counting equals volume, uniformly
+over all mesoscopic causal diamonds) and F3 (longest chain equals proper
+time) for the conformal metric. Density clumping, a Pólya-urn effect, is
+confined to wavelengths above \(8.0\)--\(9.1\) damping lengths.
+
+\emph{Lorentz invariance versus locality.} Frame independence holds at
+the 1--5\% resolution of intrinsic tests. Lorentz violation enters only
+through the clumping excess and is negligible in the physical regime.
+
+\emph{Rogue posets and quantum dynamics.} Order-only insertion rules
+fail in three distinct ways, all traced to the light-cone nonlocality of
+order-space neighbours, whose symmetric difference grows as \(N^{1/2}\)
+in 2D and \(N^{0.8}\) in 4D. Attaching the phase
+\(e^{i\beta S_{\rm BD}}\) to such histories, we prove a defect-gas
+theorem: for \(M\) independent local defect sites with \(K\)
+alternatives and uniformly distributed relative phases, the defect
+amplitude grows as \(e^{M\,m(1+x_1+\dots+x_K)}\), where \(m\) is the
+Mahler measure. The rate is zero for \(K=1\) and positive for
+\(K\ge 2\), so multi-type local defects are not suppressed by
+interference. Numerical checks support the uniform-phase hypothesis at
+generic \(\beta\), additivity, the overlap correction and the absence of
+double counting. The key analytic steps are machine-checked in Lean 4
+with Mathlib.

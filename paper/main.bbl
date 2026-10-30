@@ -1,0 +1,193 @@
+\begin{thebibliography}{35}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bombelli et~al.(1987)Bombelli, Lee, Meyer, and Sorkin]{BLMS87}
+L.~Bombelli, J.~Lee, D.~Meyer, and R.~D. Sorkin.
+\newblock Space-time as a causal set.
+\newblock \emph{Phys. Rev. Lett.}, 59:\penalty0 521, 1987.
+
+\bibitem[Surya(2019)]{Surya19}
+S.~Surya.
+\newblock The causal set approach to quantum gravity.
+\newblock \emph{Living Rev. Relativ.}, 22:\penalty0 5, 2019.
+
+\bibitem[Bombelli et~al.(2009)Bombelli, Henson, and Sorkin]{BHS09}
+L.~Bombelli, J.~Henson, and R.~D. Sorkin.
+\newblock Discreteness without symmetry breaking: a theorem.
+\newblock \emph{Mod. Phys. Lett. A}, 24:\penalty0 2579, 2009.
+
+\bibitem[Carlip(2024)]{Carlip24}
+S.~Carlip.
+\newblock Causal sets and an emerging continuum, 2024.
+\newblock arXiv:2405.14059.
+
+\bibitem[Kleitman and Rothschild(1975)]{KR75}
+D.~J. Kleitman and B.~L. Rothschild.
+\newblock Asymptotic enumeration of partial orders on a finite set.
+\newblock \emph{Trans. Amer. Math. Soc.}, 205:\penalty0 205, 1975.
+
+\bibitem[Benincasa and Dowker(2010)]{BD10}
+D.~M.~T. Benincasa and F.~Dowker.
+\newblock The scalar curvature of a causal set.
+\newblock \emph{Phys. Rev. Lett.}, 104:\penalty0 181301, 2010.
+
+\bibitem[Dowker and Glaser(2013)]{DG13}
+F.~Dowker and L.~Glaser.
+\newblock Causal set d'{A}lembertians for various dimensions.
+\newblock \emph{Class. Quantum Grav.}, 30:\penalty0 195016, 2013.
+
+\bibitem[Sorkin(1994)]{Sorkin94}
+R.~D. Sorkin.
+\newblock Quantum mechanics as quantum measure theory.
+\newblock \emph{Mod. Phys. Lett. A}, 9:\penalty0 3119, 1994.
+
+\bibitem[Loomis and Carlip(2018)]{LC18}
+S.~P. Loomis and S.~Carlip.
+\newblock Suppression of non-manifold-like sets in the causal set path
+  integral.
+\newblock \emph{Class. Quantum Grav.}, 35:\penalty0 024002, 2018.
+
+\bibitem[Carlip et~al.(2023{\natexlab{a}})Carlip, Carlip, and Surya]{CCS23}
+P.~Carlip, S.~Carlip, and S.~Surya.
+\newblock Path integral suppression of badly behaved causal sets.
+\newblock \emph{Class. Quantum Grav.}, 40:\penalty0 095004, 2023{\natexlab{a}}.
+
+\bibitem[Carlip et~al.(2023{\natexlab{b}})Carlip, Carlip, and Surya]{CCS24}
+P.~Carlip, S.~Carlip, and S.~Surya.
+\newblock The {E}instein--{H}ilbert action for entropically dominant causal
+  sets, 2023{\natexlab{b}}.
+\newblock arXiv:2311.18238.
+
+\bibitem[Sorkin(2009)]{Sorkin07}
+R.~D. Sorkin.
+\newblock Does locality fail at intermediate length-scales?
+\newblock In D.~Oriti, editor, \emph{Approaches to Quantum Gravity}. Cambridge
+  University Press, 2009.
+
+\bibitem[Rideout and Sorkin(2000)]{RS00}
+D.~P. Rideout and R.~D. Sorkin.
+\newblock A classical sequential growth dynamics for causal sets.
+\newblock \emph{Phys. Rev. D}, 61:\penalty0 024002, 2000.
+
+\bibitem[Brightwell and Georgiou(2010)]{BGe10}
+G.~Brightwell and N.~Georgiou.
+\newblock Continuum limits for classical sequential growth models.
+\newblock \emph{Random Struct. Alg.}, 36:\penalty0 218, 2010.
+
+\bibitem[Bento et~al.(2021)Bento, Dowker, and Zalel]{BDZ21}
+B.~V. Bento, F.~Dowker, and S.~Zalel.
+\newblock If time had no beginning: growth dynamics for past-infinite causal
+  sets, 2021.
+\newblock arXiv:2109.10749.
+
+\bibitem[Bogu{\~n}{\'a} and Krioukov(2026)]{BK26}
+M.~Bogu{\~n}{\'a} and D.~Krioukov.
+\newblock Sampling biases in sprinkled causal sets, 2026.
+\newblock arXiv:2610.03247.
+
+\bibitem[Madsen(2026)]{Madsen26}
+N.~Madsen.
+\newblock On the uniqueness of embeddings of causal sets, 2026.
+\newblock arXiv:2607.05840.
+
+\bibitem[Freedman(1975)]{Freedman75}
+D.~A. Freedman.
+\newblock On tail probabilities for martingales.
+\newblock \emph{Ann. Probab.}, 3:\penalty0 100, 1975.
+
+\bibitem[Talagrand(1995)]{Talagrand95}
+M.~Talagrand.
+\newblock Concentration of measure and isoperimetric inequalities in product
+  spaces.
+\newblock \emph{Publ. Math. IH{\'E}S}, 81:\penalty0 73, 1995.
+
+\bibitem[Athreya and Karlin(1968)]{AK68}
+K.~B. Athreya and S.~Karlin.
+\newblock Embedding of urn schemes into continuous time {M}arkov branching
+  processes and related limit theorems.
+\newblock \emph{Ann. Math. Statist.}, 39:\penalty0 1801, 1968.
+
+\bibitem[Bollob{\'a}s and Brightwell(1991)]{BB91}
+B.~Bollob{\'a}s and G.~Brightwell.
+\newblock Box-spaces and random partial orders.
+\newblock \emph{Trans. Amer. Math. Soc.}, 324:\penalty0 59, 1991.
+
+\bibitem[Brightwell and Gregory(1991)]{BG91}
+G.~Brightwell and R.~Gregory.
+\newblock Structure of random discrete spacetime.
+\newblock \emph{Phys. Rev. Lett.}, 66:\penalty0 260, 1991.
+
+\bibitem[Brightwell and Luczak(2015)]{BL15}
+G.~Brightwell and M.~Luczak.
+\newblock The mathematics of causal sets, 2015.
+\newblock arXiv:1510.05612.
+
+\bibitem[Janson(2011)]{Janson11}
+S.~Janson.
+\newblock Poset limits and exchangeable random posets.
+\newblock \emph{Combinatorica}, 31:\penalty0 529, 2011.
+
+\bibitem[Mailler and Marckert(2017)]{MM17}
+C.~Mailler and J.-F. Marckert.
+\newblock Measure-valued {P}{\'o}lya urn processes.
+\newblock \emph{Electron. J. Probab.}, 22:\penalty0 26, 2017.
+
+\bibitem[Mailler and Villemonais(2020)]{MV20}
+C.~Mailler and D.~Villemonais.
+\newblock Stochastic approximation on noncompact measure spaces and application
+  to measure-valued {P}{\'o}lya processes.
+\newblock \emph{Ann. Appl. Probab.}, 30:\penalty0 2393, 2020.
+
+\bibitem[Myrheim(1978)]{Myrheim78}
+J.~Myrheim.
+\newblock Statistical geometry.
+\newblock Technical Report TH-2538, CERN, 1978.
+
+\bibitem[Meyer(1988)]{Meyer88}
+D.~A. Meyer.
+\newblock \emph{The dimension of causal sets}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 1988.
+
+\bibitem[Glaser and Surya(2013)]{GS13}
+L.~Glaser and S.~Surya.
+\newblock Towards a definition of locality in a manifoldlike causal set.
+\newblock \emph{Phys. Rev. D}, 88:\penalty0 124026, 2013.
+
+\bibitem[Surya(2012)]{Surya12}
+S.~Surya.
+\newblock Evidence for the continuum in {2D} causal set quantum gravity.
+\newblock \emph{Class. Quantum Grav.}, 29:\penalty0 132001, 2012.
+
+\bibitem[Mahler(1962)]{Mahler62}
+K.~Mahler.
+\newblock On some inequalities for polynomials in several variables.
+\newblock \emph{J. London Math. Soc.}, 37:\penalty0 341, 1962.
+
+\bibitem[Smyth(1981)]{Smyth81}
+C.~J. Smyth.
+\newblock On measures of polynomials in several variables.
+\newblock \emph{Bull. Austral. Math. Soc.}, 23:\penalty0 49, 1981.
+
+\bibitem[de~Moura and Ullrich(2021)]{Lean4}
+L.~de~Moura and S.~Ullrich.
+\newblock The {L}ean 4 theorem prover and programming language.
+\newblock In \emph{Automated Deduction -- CADE 28}, volume 12699 of
+  \emph{LNCS}, page 625, 2021.
+
+\bibitem[{The mathlib Community}(2020)]{Mathlib20}
+{The mathlib Community}.
+\newblock The {L}ean mathematical library.
+\newblock In \emph{Proc. 9th ACM SIGPLAN Int. Conf. Certified Programs and
+  Proofs (CPP 2020)}, page 367, 2020.
+
+\bibitem[Baik et~al.(1999)Baik, Deift, and Johansson]{BDJ99}
+J.~Baik, P.~Deift, and K.~Johansson.
+\newblock On the distribution of the length of the longest increasing
+  subsequence of random permutations.
+\newblock \emph{J. Amer. Math. Soc.}, 12:\penalty0 1119, 1999.
+
+\end{thebibliography}

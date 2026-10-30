@@ -1,0 +1,57 @@
+% Compiles with REVTeX 4.2 when available (arXiv, full TeX Live); otherwise falls back to article.
+\IfFileExists{revtex4-2.cls}{%
+  \documentclass[aps,prd,preprint,superscriptaddress,nofootinbib,longbibliography]{revtex4-2}%
+  \def\usingrevtex{1}%
+}{%
+  \documentclass[11pt]{article}%
+  \usepackage[margin=1in]{geometry}%
+  \usepackage[numbers,sort&compress]{natbib}%
+}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{graphicx}
+\usepackage{longtable,booktabs,array,calc}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage[colorlinks=true,linkcolor=blue!50!black,citecolor=blue!50!black,urlcolor=blue!50!black]{hyperref}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\newcommand{\passthrough}[1]{#1}
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\LTcapwidth}{\textwidth}
+\ifdefined\usingrevtex\else
+  \renewcommand{\thesection}{\Roman{section}}
+  \renewcommand{\thesubsection}{\Alph{subsection}}
+\fi
+
+\begin{document}
+
+\title{Causal Sets by Dynamical Densification:\\ Continuum Limit, Order-Only Rules, and Phase Interference}
+
+\ifdefined\usingrevtex
+  \author{Felix Xia}
+  \email{felix@felixtw.tw}
+  \affiliation{Independent researcher, Taiwan}
+  \date{\today}
+  \begin{abstract}
+  \input{abstract.tex}
+  \end{abstract}
+  \maketitle
+\else
+  \author{Felix Xia\\[2pt] {\small Independent researcher, Taiwan}\\ {\small\texttt{felix@felixtw.tw}}}
+  \date{\today}
+  \maketitle
+  \begin{abstract}
+  \input{abstract.tex}
+  \end{abstract}
+\fi
+
+\input{body.tex}
+
+\bibliographystyle{\ifdefined\usingrevtex apsrev4-2\else unsrtnat\fi}
+\bibliography{refs}
+
+\end{document}
